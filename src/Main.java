@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Hello Classic");
         System.out.println("Hello GitHub");
         System.out.println("Hello Local Repository");
+        System.out.println("GitHub for git pull");
     }
 }
